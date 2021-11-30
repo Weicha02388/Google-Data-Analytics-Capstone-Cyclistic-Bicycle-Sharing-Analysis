@@ -3,4 +3,4 @@ My steps taken to merge and clean files for Cyclistic dataset. Link: https://div
 
 After merging into a single csv file, i uploaded to tableau public to do the visualisations.
 
-For the visualisations, refer to tableau: https://public.tableau.com/views/CyclisticBicycleSharingAnalysis/GoogleCapstoneProjectCyclisticBicycleSharingAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+Link to my visualiations: https://public.tableau.com/views/CyclisticBicycleSharingAnalysis/GoogleCapstoneProjectCyclisticBicycleSharingAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
